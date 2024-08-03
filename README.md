@@ -24,4 +24,5 @@ This project is a text-based adventure game created in Fall 2023 as part of a co
 ## How to Run
 - g++ -o adventure_game main.cpp Character.cpp Room.cpp Weapon.cpp Enemy.cpp
 - ./adventure_game
-
+## Image 
+![](image/Output.png)
