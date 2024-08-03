@@ -1,3 +1,7 @@
+/**
+ * @author Sakib Islam[sakib.islam@uleth.ca]
+ * @date 2023-12
+ */
 #ifndef ROOM_H
 #define ROOM_H
 

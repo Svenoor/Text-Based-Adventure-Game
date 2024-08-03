@@ -1,3 +1,8 @@
+/**
+ * @author Svenoor Josan[svenoor.josan@uleth.ca]
+ * @date 2023-12
+ */
+
 #include <iostream>
 #include <vector>
 #include "Character.h"

@@ -1,3 +1,8 @@
+/**
+ * @author Sakib Islam[sakib.islam@uleth.ca]
+ * @date 2023-12
+ */
+
 #ifndef CHARACTER_H
 #define CHARACTER_H
 

@@ -1,3 +1,8 @@
+/**
+ * @author Sakib Islam[sakib.islam@uleth.ca]
+ * @date 2023-12
+ */
+
 #include "Room.h"
 
 Room::Room(const std::string& name) : name(name), weapon(nullptr), enemy(nullptr) {}
